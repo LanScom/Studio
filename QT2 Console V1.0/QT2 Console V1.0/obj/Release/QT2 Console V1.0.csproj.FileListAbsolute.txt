@@ -1,0 +1,9 @@
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\bin\Release\QT2 Console V1.0.exe.config
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\bin\Release\QT2 Console V1.0.exe
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\bin\Release\QT2 Console V1.0.pdb
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\obj\Release\QT2_Console_V1._0.Form1.resources
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\obj\Release\QT2_Console_V1._0.Properties.Resources.resources
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\obj\Release\QT2 Console V1.0.csproj.GenerateResource.Cache
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\obj\Release\QT2 Console V1.0.exe
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\obj\Release\QT2 Console V1.0.pdb
+F:\World\QT2\Design Files\Software\Software\QT2 Console V1.0\QT2 Console V1.0\obj\Release\QT2 Console V1.0.csprojResolveAssemblyReference.cache
